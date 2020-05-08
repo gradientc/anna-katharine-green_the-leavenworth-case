@@ -55,8 +55,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4047</dc:source>
-		<dc:source>https://archive.org/details/leavenworthcase00rohlgoog</dc:source>
-		<dc:source>https://archive.org/details/leavenworthcased00greeuoft</dc:source>
+		<dc:source>https://hdl.handle.net/2027/uc2.ark:/13960/t5v698r6g</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
